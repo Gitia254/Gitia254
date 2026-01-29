@@ -19,7 +19,7 @@
 
 * Frontend development (HTML, CSS, JavaScript, React)
 * UI/UX and futuristic interface concepts
-* Motion graphics & video editing (After Effects)(https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/250px-Adobe_After_Effects_CC_icon.svg.png)
+* Motion graphics & video editing (After Effects) 
 * Creative coding & experimental web projects
 * Digital storytelling and interactive experiences
 
