@@ -62,7 +62,7 @@
 
 ## 📫 Connect With Me
 
-* GitHub: **@Gitia**
+* GitHub: **@Gitia254**
 * Portfolio: *(coming soon)*
 * Discord / socials: 
 
